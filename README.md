@@ -1,7 +1,6 @@
 [![MasterHead](https://free4kwallpapers.com/uploads/originals/2016/05/26/if-you-are-not-me-stay-away-from-my-computer-wallpaper.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Coffee, code, repeat!(oops 3 mistake)</h3>
-<img align="right" alt="coding" width="400" src="https://free4kwallpapers.com/uploads/originals/2016/05/26/if-you-are-not-me-stay-away-from-my-computer-wallpaper.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasatruewarriror&label=Profile%20views&color=0e75b6&style=flat" alt="wasatruewarriror" /> </p>
 
 <p align="left"> <a href="https://twitter.com/wasatruewarrior" target="blank"><img src="https://img.shields.io/twitter/follow/wasatruewarrior?logo=twitter&style=for-the-badge" alt="wasatruewarrior" /></a> </p>
