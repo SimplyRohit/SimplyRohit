@@ -70,9 +70,6 @@
   <img src="https://streak-stats.demolab.com?user=WasATrueWarriror&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/WasATrueWarriror/WasATrueWarriror/output/snake.svg" alt="Snake animation" />
 
 ###
 
