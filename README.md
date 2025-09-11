@@ -4,7 +4,7 @@
 
 ###
 <h1 align="center">Hi, I'm Rohit👋</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack & Blockchain developer from India</h3> <!-- Added Blockchain developer -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplyrohit&label=Profile%20views&color=0e75b6&style=flat" alt="simplyrohit" /> </p>
 
@@ -12,6 +12,7 @@
 
 
 <p align="left">
+  <!-- Social Links -->
   <a href="https://x.com/WasATrueWarrior" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
   </a>
@@ -19,13 +20,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/r0hlttt" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-5865F2?style=flat-square&logo=telegram&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Telegram-5865F2?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
-<h3 >Things I code with</h3>
+
+<h3>Things I code with</h3>
 <p>
+  <!-- Frameworks / Languages -->
   <img alt="Next.js" src="https://img.shields.io/badge/-Next-43853d?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" /> <!-- Added -->
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" /> <!-- Added -->
   <img alt="Solana" src="https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
   <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
   <img alt="Inngest" src="https://img.shields.io/badge/-Inngest-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjMDAwIi8+PC9zdmc+" />
@@ -48,7 +53,3 @@
   <img alt="Drizzle ORM" src="https://img.shields.io/badge/-Drizzle-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjMDAwIi8+PC9zdmc+" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
 </p>
-
-
-
-
